@@ -1,2 +1,2 @@
 rootProject.name = "DevBatteryMonitor"
-include ':app'
+include(":app")
